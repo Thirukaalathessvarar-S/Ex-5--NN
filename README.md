@@ -1,7 +1,7 @@
 <H3>NAME: Thirukaalathessvarar S</H3>
 <H3>REGISTER NO.: 212222230161</H3>
 <H3>EX. NO.5</H3>
-<H3>DATE:07/11/2024</H3>
+<H3>DATE:</H3>
 <H1 ALIGN =CENTER>Implementation of XOR  using RBF</H1>
 <H3>Aim:</H3>
 To implement a XOR gate classification using Radial Basis Function  Neural Network.
